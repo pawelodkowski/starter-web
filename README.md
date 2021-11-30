@@ -6,8 +6,10 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-## Depl
+some purpose of that
 
+## Depl
+some purpose of that
 Sample website with plenty of files for demos
 
 ## HtC
